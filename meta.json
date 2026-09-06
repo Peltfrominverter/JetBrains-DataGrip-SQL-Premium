@@ -1,0 +1,23 @@
+{
+  "repo": "jetbrains-datagrip-sql-premium",
+  "product": "JetBrains DataGrip SQL Premium",
+  "kind": "dev",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "dev",
+  "topics": [
+    "jetbrains-datagrip",
+    "sql-ide",
+    "data-diff",
+    "query-plans",
+    "jdbc-explorer",
+    "datagrip-setup-failed-fix",
+    "how-to-install-datagrip",
+    "datagrip-windows",
+    "datagrip-desktop-2026",
+    "datagrip-desktop-package"
+  ],
+  "site": "toolix.me"
+}
